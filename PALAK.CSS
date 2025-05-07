@@ -1,0 +1,5 @@
+@media (max-width: 768px) {
+  body { padding: 20px; }
+  .cart-container, .form-container { width: 100%; padding: 10px; }
+  .cart-item, .product { width: 100%; margin: 10px 0; }
+}
